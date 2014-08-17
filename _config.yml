@@ -1,1 +1,14 @@
-baseurl: /zhenfan0753.github.io
+# Site settings
+title: 真烦他四叔
+email: 365711684@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://zhenfan0753.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  zhenfan0753
+
+# Build settings
+markdown: kramdown
